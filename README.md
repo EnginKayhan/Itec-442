@@ -1,4 +1,4 @@
-# Itec-442
+# IoT & CYBER SECURITY
 ## Eportfolio by Engin Kayhan
 
 ## LECTURE 1 & 2
