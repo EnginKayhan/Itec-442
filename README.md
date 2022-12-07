@@ -28,7 +28,7 @@ tracert = trace the path that an IP packet takes to its destination
 
 ## LECTURE 2 & 3
 
-###**DIGITALISATION**
+### **DIGITALISATION**
 
 ### **What is a 'fully digital enterprise'?**
 
