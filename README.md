@@ -136,3 +136,15 @@ High + High + Medium = High
 **"Setting up a Honeypot"** where Honey pot is a computer system that we as a user set up a trap for cyber attackers who try to gain unauthorised access to information systems.
 
 **"Implementing port security"** where port security controls how many MAC (media access control) addresses can be learned on a single switch port by using PuTTY (a free open sourcse SSH/Telnet program with small-sized versions that can run on various operating systems).
+
+## LECTURES 6 & 7
+
+In these lectures we dove deep into types of attacks against enterprise networks, attacks being called ***active and passive attacks.*** We also watched a video about man-in-the-middle attacks and later on discussed the details about the attack itself and learned about terms used for attacks such as ***spoofing, ip poisoning, etc...***.
+
+## LECTURES 8 & 9
+
+### IoT and Physical Computing
+
+At week 8 & 9 we dug deeper into IoT and talked about IoT in our day-to-day lives and where we use them
+
+
