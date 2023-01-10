@@ -115,6 +115,10 @@ High + High + Medium = High
 
 ## Kali Linux and VMware 
 
+Due to hardware issues with my **old laptop**, i was not able to fully download and set up Kali Linux so therefore i don't have anything to reflect on other than the exercises we "tried to do" in class.
+
+**Edit: I have received my new laptop ( Tuesday, January 10 2023) but sadly won't be able to download Kali Linux and test some stuff since there is less than an hour left to submit this e-portfolio**
+
 [VMware installation (v15)](https://github.com/EnginKayhan/Itec-442/blob/main/VMware%20step-by-step%20setup.pdf)
 
 ## Tools and Description
@@ -145,6 +149,41 @@ In these lectures we dove deep into types of attacks against enterprise networks
 
 ### IoT and Physical Computing
 
-At week 8 & 9 we dug deeper into IoT and talked about IoT in our day-to-day lives and where we use them
+At week 8 & 9 we dug deeper into IoT and talked about IoT in our day-to-day lives and where we use them. Discussed topics about how & what projects and/or gadgets are usefull to us humans.
+
+Basically IoT Devices are becoming an essential part of our lives mainly because they save us time and pretty agile compared to other 'out of trend' ways of achieving results.
+
+## LECUTES 10 & 11
+
+For this week we looked more in depth explanation for IoT in many places with examples and how these processes take (steps that have to be followed in order for it to be succesfully connected to the cloud or wherever it makes connection, etc...) including Smart Parking Garage and IoT Infrastructure.
+
+Most importantly (at least for me) we had a guest speaker, Babak Reihani. Mr Reihani gave us a presentation about **"The practical aspects/challenges of IoT Operations".**
+
+**More about Mr Reihani:**
+
+[Mr Rehani](https://cy.linkedin.com/in/babak-reihani) has practical experience in design and construction of microcontroller boards and developing them in IoT and smart renewable energy . He is an expert in data analytics with python and modeler software. Also he has experience in designing solar power plants and a PV solar test Lab. He is the director of Smart Rasa Group.
+
+He helps mission-driven organizations leverage the power of IoT and data analytics to maximize their impact. He takes pride in listening to customers' needs and crafting well-architected, innovative, and scalable IoT solutions that help his customers achieve their goals.
+
+He is dedicated to engaging with IoT communities, educating, exciting, and inspiring them to build with and contribute to Smart systems.
+He wrote code samples, presented demos, articles, and tutorials that easily communicate the benefits of IoT/Smart  technologies for developers, scientists, and technical decision-makers.
+He strongly believes that IoT and Smart systems will help to design a better world.
+
+[***the company's site***](https://www.smart-rg.com/)
+
+Mr Reihani also brought IoT devices with him so that we can examine and better understand how these devices operate. I was curious enough to ask questions about the devices regarding their prices, how they are/were made, if we can edit the codes written inside of the devices, and whether it would be cheaper to make these or buy them.
+
+At the end of the day we gained knowledge and had/still have better knowledge about IoT devices and how they work.
+
+### THIS IS THE END OF MY E-PORTFOLIO FOR ITEC442
+
+#### I would like to personally give my regards to our instructor BERAN TANSELOGLU for his hard work and kindness towards us. We appreciate you and you truly care about your students, thank you!
+
+
+
+
+
+
+
 
 
