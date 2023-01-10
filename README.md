@@ -30,7 +30,7 @@ tracert = trace the path that an IP packet takes to its destination
 
 ### **DIGITALISATION**
 
-### **What is a 'fully digital enterprise'?**
+**What is a 'fully digital enterprise'?**
 
 A fully digital enterprise is where a business has adopted digital technologies to help improve and smooth-run their business
 
