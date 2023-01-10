@@ -64,7 +64,58 @@ They have a negative impact on company and it will lead to loss in revenue where
 + **Action on Objectives;** after cybercriminals have developed cyberweapons, installed them onto a target’s network, and taken control of their target’s network, they begin the final stage of the Cyber Kill Chain: carrying out their cyberattack objectives. While cybercriminals’ objectives vary depending on the type of cyberattack, some examples include weaponizing a botnet to interrupt services with a Distributed Denial of Service (DDoS) attack, distributing malware to steal sensitive data from a target organization, and using ransomware as a cyber extortion tool.
 
 
+## LECTURE 5 & 6
 
+## AAA
+### Authentication;
+When you logged into this course. When you entered in your email address and your password, you're
+making a claim that you are the student and by doing that, you're checked by the system and granted
+access.
+
+### Authorization;
+When a user is given access to a certain piece of data or certain areas of the building.
+
+### Accountung;
+Ensures that tracking of data, computer usage, and network resources is maintained
+
+## Threat Risk Assessment Matrix
+
+| Medium | High | High |
+| :---: | :---: | :---: |
+| Low | Medium | High |
+| Low | Low | Medium |
+
++ **y-axis = IMPACT & x-axis = LIKELIHOOD**
+
+**FOR IMPACT** (read left to right)
+
+Medium + High + High = High
+
+Low + Medium + High = Medium
+
+Low + Low + Medium = Low
+
+**FOR LIKELIHOOD** (read up to down)
+
+Medium + Low + Low = Low
+
+High + Medium + Low = Medium
+
+High + High + Medium = High
+
+## To better yet "understand" this table we saw an example from 2016 PivotPoint Security where a scenario was given;
+
+ ### What is the impact of the attack on the service and business?
+ 
+1 A low impact could mean, for example, one client service down for half a day
+
+2 A medium impact means service to a residential area could be down for half a day
+
+3 A high impact means service to a business area could be down for half a day
+
+## Kali Linux and VMware 
+
+## Tools and Description
 
 
 
