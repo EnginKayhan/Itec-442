@@ -115,26 +115,24 @@ High + High + Medium = High
 
 ## Kali Linux and VMware 
 
+[VMware installation (v15)](https://github.com/EnginKayhan/Itec-442/blob/main/VMware%20step-by-step%20setup.pdf)
+
 ## Tools and Description
 
++ **ipconfig;** presents the user with network configuration information
 
++ **whois;** is used to find out information regarding ownership, administrative, and technical responsibility
 
++ **nslookup;** is used in information-gathering process of the ***enumeration phase*** (extracting the names of the user and machine, also the resources of the network) of a cyber attack
 
++ **ping;** is used for measuring the tound trip time for packets to be sent from the originating host to the target host
 
++ **traceroute;** used for checking the latency issues between hosts and evaluate the connection to determine where excessive latency exists
 
++ **secure shell;** used in some network security schemas because it supports tunneling and port forwarding
 
+## For our e-portfolio regarding the lectures 5 & 6 we were given activities to do which were called;
 
+**"Setting up a Honeypot"** where Honey pot is a computer system that we as a user set up a trap for cyber attackers who try to gain unauthorised access to information systems.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+**"Implementing port security"** where port security controls how many MAC (media access control) addresses can be learned on a single switch port by using PuTTY (a free open sourcse SSH/Telnet program with small-sized versions that can run on various operating systems).
